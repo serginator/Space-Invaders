@@ -716,9 +716,9 @@ var spaceInvaders = (function(){
                 if(yDown) yDown = false;
                 
                 penguinMode();
-		penguinMessage();
+				penguinMessage();
 				
-		eriMessage();
+				eriMessage();
                 
                 bossMessage();
                 

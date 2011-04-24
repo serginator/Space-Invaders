@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- SoundManager Flash configuration -->
+<!-- Sound IDs are referenced from JS -->
+
+<items baseHref="audio/" defaultVol="100">
+
+    <sound id="shot1" href="shot1.ogg" />
+    <sound id="shot2" href="shot2.ogg" />
+    <sound id="explosion1" href="explosion1.ogg" />
+    <sound id="explosion2" href="explosion2.ogg" />
+
+</items>

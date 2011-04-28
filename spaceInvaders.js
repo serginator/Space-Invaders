@@ -7,7 +7,8 @@ var spaceInvaders = (function(){
         I've read some spaceinvaders games, but mostly, Canvas Invaders
         from Jason Brown and RGB invaders from Egor Balishev, who helped
         me a few pointing to a good way to learn javascript, even if I 
-        started with other resources. Thanks to both of them.
+        started with other resources. Thanks to both of them. Also Carlos
+		Benítez from www.etnassoft.com helped me fixing several things.
     */ 
 
     /******************************************************************
